@@ -1,30 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mikias</h1>
 
-<h4 align="center">Nice to meet you.</h4>
+<h4 align="center">Glad you are here.</h4>
 
 ## About me:
 
-- 🧑‍💻 I am a Software Engineer.
-
-- 🔭 Working on **Web Development.**
-
-- 🌱 Currently learning **ReactJS.**
-
 - 🧑‍🎓 Studying MSc in Software Engineering, @ **HiLCoE - School of Computer Science and Technology.**
 
-- 💻 Open to Work.
-
-- 👯 Looking forward to collaborate and build meaningful projects.
+- 🌱 I'm currently learning and working on The **MERN** Stack.
 
 - 📫 Reach me: **mikias.worash.a@gmail.com**
 
-<h2 align="center">Connect with me</h2>
-
-<p align="center">
-    <a href="http://linkedin.com/in/mikias-worash-0611a522a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Link" height="40" width="40" /></a>&nbsp; &nbsp;&nbsp; &nbsp;
-    <a href="https://www.twitter.com/mikias_worash" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Twitter Link" height="40" width="40" /></a>&nbsp; &nbsp;&nbsp; &nbsp;
-    <a href="https://www.facebook.com/mikiasworash" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Link" height="40" width="40" /></a>&nbsp; &nbsp;&nbsp; &nbsp;
-</p>
 
 <h2 align="center">Languages and Tools</h2>
 
