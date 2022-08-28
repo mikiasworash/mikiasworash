@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Mikias</h1>
+<h1>Hello 👋, I'm Mikias</h1>
 
-<h4 align="center">Glad you are here.</h4>
+<h4>Nice to meet you.</h4>
 
 ## About me:
 
-- 🧑‍🎓 Studying MSc in Software Engineering, @ **HiLCoE - School of Computer Science and Technology.**
+- 🧑‍🎓 Software Engineering Student, @ **HiLCoE**
 
-- 🌱 I'm currently learning and working on The **MERN** Stack.
+- 🌱 Currently working on The **MERN** Stack.
+
+- 👯 Looking forward to collaborate on projects.
 
 - 📫 Reach me: **mikias.worash.a@gmail.com**
-
 
 <h2 align="center">Languages and Tools</h2>
 
