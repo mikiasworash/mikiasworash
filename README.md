@@ -1,16 +1,12 @@
-<h1>Hello 👋, I'm Mikias</h1>
+<h2  align="center">Hello 👋, I'm Mikias</h1>
 
-<h4>Nice to meet you.</h4>
+<h5  align="center">🧑‍🎓 Software Engineering Student, @ **HiLCoE** </h5>
 
-## About me:
+<h5  align="center">🌱 Currently working on The **MERN** Stack. </h5>
 
-- 🧑‍🎓 Software Engineering Student, @ **HiLCoE**
+<h5  align="center">👯 Looking forward to collaborate on projects. </h5>
 
-- 🌱 Currently working on The **MERN** Stack.
-
-- 👯 Looking forward to collaborate on projects.
-
-- 📫 Reach me: **mikias.worash.a@gmail.com**
+<h5  align="center">📫 Reach me: **mikias.worash.a@gmail.com** </h5>
 
 <h2 align="center">Languages and Tools</h2>
 
