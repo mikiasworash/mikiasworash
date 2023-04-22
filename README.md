@@ -1,10 +1,9 @@
 <div align='center'>
+<h2>💫 About Me</h2>
 
-<h1>💫 About Me</h1>
 <p> Hi 👋, I'm Mikias
 
-<img
-        src="https://readme-typing-svg.herokuapp.com?font=Sora&duration=3000&color=03AAB4&background=FFFFFF00&center=true&lines=Software+Engineer;Full-stack Developer">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineer;Full-stack+Developer" alt="Typing SVG" /></a>
 
 <h4>🔭 I'm currently working on the MERN Stack. Focusing on JavaScript, React.js, Next.js, and Node.js. </h4>
 
@@ -21,9 +20,7 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikiasworash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-<br>
 <h2>Languages and Tools</h2>
-<br>
 
 <p> 
      <a href="https://html.com/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"  /></a>
