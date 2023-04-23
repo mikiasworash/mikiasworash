@@ -1,14 +1,16 @@
-<h1  align="center">About Me</h1>
+<h1>💫 About Me</h1>
 
+<h4>🔭 I'm currently focusing on the MERN Stack. </h4>
 
-<h4  align="center">🔭 I'm currently focusing on the MERN Stack. </h4>
+<h4>💬 Ask me about JavaScript, React.js, and Node.js. </h4>
 
-<h4  align="center">💬 Ask me about JavaScript, React.js, and Node.js. </h4>
+<h4>👯 I'm open to collaborations on projects. </h4>
 
-<h4  align="center">👯 I'm open to collaborations on projects. </h4>
+<h4>📫 Reach me: <a  href="mailto:mikiasworash@gmail.com">mikiasworash@gmail.com </a></h4>
 
-<h4  align="center">📫 Reach me: <a  href="mailto:mikiasworash@gmail.com">mikiasworash@gmail.com </a></h4>
+## 🌐 Socials:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mikiasworash) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mikiasworash)
 
 <h2 align="center">Languages and Tools</h2>
 
