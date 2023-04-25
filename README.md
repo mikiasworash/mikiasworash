@@ -1,11 +1,13 @@
 <div align='center'>
-<h2>💫 About Me</h2>
+<!-- <h2>💫 About Me</h2> -->
 
-<p> Hi 👋, I'm Mikias
+<h3> Hi 👋, I'm Mikias </h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineer;Full-stack+Developer" alt="Typing SVG" /></a>
 
-<h4>🔭 I'm currently working on the MERN Stack. Focusing on JavaScript, React.js, Next.js, and Node.js. </h4>
+<h4>🔭 I'm currently working on the MERN Stack, focusing on JavaScript, React.js, Next.js, and Node.js</h4>
+
+<h4>👯 I'm looking to collaborate with innovative and dynamic teams</h4>
 
 <h4>📫 You can email me here: <a  href="mailto:mikiasworash@gmail.com">mikiasworash@gmail.com </a></h4>
 <br>
