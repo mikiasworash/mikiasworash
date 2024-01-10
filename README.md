@@ -3,7 +3,7 @@
 
 <a href="https://mikiasworash.vercel.app/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineer;Full-stack+Developer" alt="Typing SVG" /></a>
 
-<h4>🔭 I'm currently working on the MERN Stack, focusing on JavaScript, React.js, Next.js, and Node.js</h4>
+<h4>🔭 I'm currently working on the MERN Stack, focusing on JavaScript, TypeScript, React, Next, React Native, and Node</h4>
 
 <h4>👯 I'm looking to collaborate with innovative and dynamic teams</h4>
 
