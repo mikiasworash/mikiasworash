@@ -1,13 +1,15 @@
 <div align='center'>
-<h3> Hi 👋, I'm Mikias </h3>
+<h3> Hi 👋, I'm Mike </h3>
 
 <a href="https://mikiasworash.vercel.app/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Software+Engineer;Full-stack+Developer" alt="Typing SVG" /></a>
 
-<h4>🔭 Currently focusing on JavaScript, TypeScript, React, Next, React Native, and Node</h4>
+<h4>🔭 Currently exploring the wonders of React, Next, RN, and Nest
 
-<h4>👯 Open to collaborate with innovative and dynamic teams</h4>
+<h4>👯 Always open to collaborating with innovative and dynamic teams</h4>
 
-<h4>📫 Email me here: <a  href="mailto:mikiasworash@gmail.com">mikiasworash@gmail.com </a></h4>
+<h4>📫 Reach out to me at <a  href="mailto:mikiasworash@gmail.com">mikiasworash@gmail.com </a></h4>
+
+<h4>🌟 Let's create something amazing together!</h4>
 
 <h3> <a  href="https://mikiasworash.vercel.app/" target='_blank'>💫 Portfolio</a></h3>
 <br>
